@@ -1,31 +1,27 @@
-<h2 class="c-project-heading--task">Start the lobby</h2>
+<h2 class="c-project-heading--task">Fix room 1</h2>
 
-Build the landing page for the hotel and add the first bug room.
+The lift button has escaped.
 
 ### Step 1
 
-Open `index.html` from the `bug-hotel-starter` folder.
+Open `room-1.html` from the `bug-hotel-starter` folder and run the project.
 
 ### Step 2
 
-Create a bold hotel title, a short explanation, and a link that sends the player to
-`room-1.html`.
+The button should be in the room, but it has slid off the right-hand side of the page.
+Look in the CSS for the `.runaway-button` rule.
 
 ### Step 3
 
-Make the lobby feel playful and mysterious. Use a strong background, a framed card,
-and a short list that previews the kinds of bugs hidden in the hotel.
+Change the `left` value so the button moves back onto the page.
 
 ### Step 4
 
-Create `room-1.html`. Add a title, a short bit of story text, and a large button area.
-Push the button off the right-hand side with a CSS `left` value, then add JavaScript so
-clicking the button reveals a link to `room-2.html`.
+Refresh the page and click the button. A link to `room-2.html` should appear.
 
 <h2 class="c-project-heading--task">Test</h2>
 
-Run the project and check that:
+Check that:
 
-- the lobby page opens first
-- the room 1 button starts off-screen
-- fixing the CSS lets you click through to room 2
+- you can see the lift button
+- clicking it reveals the link to room 2

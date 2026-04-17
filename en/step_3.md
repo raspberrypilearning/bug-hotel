@@ -1,25 +1,27 @@
-<h2 class="c-project-heading--task">Add the first bugs</h2>
+<h2 class="c-project-heading--task">Fix room 2</h2>
 
-Create two more rooms that each teach a different debugging idea.
+The brass bell is awake, but the button is calling the wrong function.
 
 ### Step 1
 
-Make `room-2.html`. Add a button that looks correct but calls the wrong JavaScript
-function name, so nothing happens until the name is fixed.
+Open `room-2.html` and run the project.
 
 ### Step 2
 
-When the button works, reveal a link to `room-3.html`.
+Click the bell button. Nothing happens.
 
 ### Step 3
 
-Make `room-3.html`. Add a hidden clue card and a button that should reveal it, but use
-the wrong `id` in the JavaScript so the clue stays hidden until the code is corrected.
+Look at the button and the JavaScript function below it. The names do not match.
+Change the wrong name so the button can call the correct function.
+
+### Step 4
+
+Refresh the page and click the bell again. A link to `room-3.html` should appear.
 
 <h2 class="c-project-heading--task">Test</h2>
 
-Run the project and check that:
+Check that:
 
-- room 2 only works after fixing the function name
-- room 3 only works after matching the `id` names
-- each room leads neatly to the next one
+- clicking the bell reveals the next room
+- the link takes you to room 3

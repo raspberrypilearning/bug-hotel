@@ -1,17 +1,27 @@
-## Challenge
+<h2 class="c-project-heading--task">Fix room 4</h2>
 
---- task ---
+The clue in this room is hiding in plain sight.
 
-Design one more room for the Bug Hotel.
+### Step 1
 
-Choose a fresh bug idea such as:
+Open `room-4.html` and run the project.
 
-- a class name typo that breaks the layout
-- a hidden message that should change from `display: none` to visible
-- a sound button that uses the wrong file name
-- a hover effect that hides the clue instead of showing it
+### Step 2
 
-Link your new room from `checkout.html`, or hide it as a secret extra room for curious
-players.
+The link to the next room is already there, but it is very hard to read.
 
---- /task ---
+### Step 3
+
+Find the `.faded-link` CSS rule. Change the colours so the text stands out from the
+background.
+
+### Step 4
+
+Refresh the page and follow the clue to `room-5.html`.
+
+<h2 class="c-project-heading--task">Test</h2>
+
+Check that:
+
+- you can read the clue clearly
+- the link takes you to room 5

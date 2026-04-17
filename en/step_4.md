@@ -1,26 +1,28 @@
-<h2 class="c-project-heading--task">Finish the hotel</h2>
+<h2 class="c-project-heading--task">Fix room 3</h2>
 
-Add the final two bug rooms and the ending page.
+There is a hidden key card in the corridor, but the lamp switch cannot find it.
 
 ### Step 1
 
-Make `room-4.html`. Put the next clue on the page, but style it with colours that are
-too similar so the text blends into the background.
+Open `room-3.html` and run the project.
 
 ### Step 2
 
-Make `room-5.html`. Add a big final button that points to the wrong filename in its
-`href`. The player should need to correct the file name before they can leave the hotel.
+Click the lamp button. The spare key should appear, but it stays hidden.
 
 ### Step 3
 
-Create `checkout.html` with a short ending message and a prompt to invent a new room of
-your own.
+Look at the `id` in the HTML and the `getElementById(...)` in the JavaScript. Make the
+two names match.
+
+### Step 4
+
+Refresh the page and click the lamp again. The hidden key card should appear with a link
+to `room-4.html`.
 
 <h2 class="c-project-heading--task">Test</h2>
 
-Run the project and check that:
+Check that:
 
-- room 4 becomes readable when the colours are fixed
-- room 5 only opens the ending page after the link is corrected
-- the checkout page feels like a proper reward
+- the spare key appears after you click the lamp
+- the new link opens room 4

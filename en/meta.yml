@@ -1,15 +1,17 @@
 title: Bug Hotel
 hero_image: images/banner.png
-description: Build a playful web debugging game where each hotel room hides one small HTML, CSS, or JavaScript bug.
+description: Fix a strange hotel one room at a time by debugging HTML, CSS, and JavaScript.
 listed: false
 pdf: false
 steps:
-  - title: What you will make
-  - title: Start the lobby
+  - title: What you will do
+  - title: Room 1: Lift button
     completion:
       - engaged
-  - title: Add the first bugs
-  - title: Finish the hotel
+  - title: Room 2: Sleepy bell
+  - title: Room 3: Spare key
+  - title: Room 4: Faded note
+  - title: Room 5: Checkout sign
     completion:
       - internal
   - title: Challenge
