@@ -4,17 +4,17 @@ description: Fix a strange hotel one room at a time by debugging HTML, CSS, and 
 listed: false
 pdf: false
 steps:
-  - title: What you will do
-  - title: Room 1: Lift button
+  - title: 1
+  - title: 2
     completion:
       - engaged
-  - title: Room 2: Sleepy bell
-  - title: Room 3: Spare key
-  - title: Room 4: Faded note
-  - title: Room 5: Checkout sign
+  - title: 3
+  - title: 4
+  - title: 5
+  - title: 6
     completion:
       - internal
-  - title: Challenge
+  - title: 7
     challenge: true
     completion:
       - external
