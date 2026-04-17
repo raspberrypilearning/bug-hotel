@@ -1,13 +1,17 @@
-title: Project title in sentence case
+title: Bug Hotel
 hero_image: images/banner.png
-description: A short description of the project
+description: Build a playful web debugging game where each hotel room hides one small HTML, CSS, or JavaScript bug.
 listed: false
 pdf: false
 steps:
   - title: What you will make
-  - title: Step title
+  - title: Start the lobby
     completion:
-      - engaged      
+      - engaged
+  - title: Add the first bugs
+  - title: Finish the hotel
+    completion:
+      - internal
   - title: Challenge
     challenge: true
     completion:
