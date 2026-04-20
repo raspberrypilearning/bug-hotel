@@ -16,13 +16,6 @@ Look at the call to the function on the button and the JavaScript function below
 The names do not match.
 Change the call in `onclick` so the button calls the correct function.
 
-### Step 4
-
-Refresh the page and click the bell again. A link to `room-3.html` should appear.
-
 <h2 class="c-project-heading--task">Test</h2>
 
-Check that:
-
-- clicking the bell reveals the next room
-- the link takes you to room 3
+Run your code and click the bell again. A link to `room-3.html` should appear.

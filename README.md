@@ -9,7 +9,7 @@ series of hotel rooms by fixing one tiny web bug on each page.
 
 - `en/code/bug-hotel-starter/` contains the playable hotel pages
 - `en/meta.yml` defines the project metadata
-- `en/step_1.md` to `en/step_5.md` describe the activity
+- `en/step_1.md` to `en/step_7.md` describe the activity
 
 ## Contributing
 

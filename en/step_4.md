@@ -14,13 +14,6 @@ Click the lamp button. The spare key should appear, but it stays hidden.
 
 Look at the `id` in the HTML and the `getElementById(...)` in the JavaScript. Make the two names match.
 
-### Step 4
-
-Run your code and click the lamp again. The hidden key card should appear with a link to `room-4.html`.
-
 <h2 class="c-project-heading--task">Test</h2>
 
-Check that:
-
-- the spare key appears after you click the lamp
-- the new link opens room 4
+Run your code and click the lamp again. The hidden key card should appear with a link to `room-4.html`.

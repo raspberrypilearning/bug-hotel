@@ -14,13 +14,6 @@ Click the green button. It should open the ending page, but the file name is wro
 
 Find the `href` in the link and change it so it matches `checkout.html`.
 
-### Step 4
-
-Refresh the page and click the button again. You should reach the ending page.
-
 <h2 class="c-project-heading--task">Test</h2>
 
-Check that:
-
-- the green button opens the checkout page
-- you can finish the Bug Hotel
+Click the button again. You should reach the final page.
