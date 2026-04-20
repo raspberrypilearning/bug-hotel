@@ -8,7 +8,7 @@ Open `room-5.html` and run the project.
 
 ### Step 2
 
-Click the golden button. It should open the ending page, but the file name is wrong.
+Click the green button. It should open the ending page, but the file name is wrong.
 
 ### Step 3
 
@@ -22,5 +22,5 @@ Refresh the page and click the button again. You should reach the ending page.
 
 Check that:
 
-- the golden button opens the checkout page
+- the green button opens the checkout page
 - you can finish the Bug Hotel

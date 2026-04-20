@@ -12,13 +12,11 @@ Click the lamp button. The spare key should appear, but it stays hidden.
 
 ### Step 3
 
-Look at the `id` in the HTML and the `getElementById(...)` in the JavaScript. Make the
-two names match.
+Look at the `id` in the HTML and the `getElementById(...)` in the JavaScript. Make the two names match.
 
 ### Step 4
 
-Refresh the page and click the lamp again. The hidden key card should appear with a link
-to `room-4.html`.
+Run your code and click the lamp again. The hidden key card should appear with a link to `room-4.html`.
 
 <h2 class="c-project-heading--task">Test</h2>
 

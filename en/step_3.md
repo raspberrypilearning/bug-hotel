@@ -12,8 +12,9 @@ Click the bell button. Nothing happens.
 
 ### Step 3
 
-Look at the button and the JavaScript function below it. The names do not match.
-Change the wrong name so the button can call the correct function.
+Look at the call to the function on the button and the JavaScript function below it. 
+The names do not match.
+Change the call in `onclick` so the button calls the correct function.
 
 ### Step 4
 
